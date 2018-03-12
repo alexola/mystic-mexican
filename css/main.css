@@ -1,0 +1,126 @@
+#hidden-word {
+    color: white;
+    height: 50px;
+    width: 34px;
+    margin: 40px;
+}
+
+body {
+    background-color: green;
+}
+
+.letters {
+    display: inline;
+    color: orange;
+    font-style: italic;
+    font-size: 30px;
+    letter-spacing: 30px;
+    border: 20px;
+}
+
+
+h1 {
+  font-family: 'Cookie', cursive;
+  color: #FC5185;
+  text-shadow: 0 0 3px #c51148;
+}
+
+;
+#surprise {
+    max-width: 50%;
+    height: auto;
+}
+
+span {
+  display: inline;
+  border-style: dotted;
+  border-color: red;
+  color: blue;
+  font-size: 40px;
+  float: right;
+  padding: 0px 5px 0px 5px;
+  margin-right: 5px;
+  margin-top: 70px;
+
+}
+
+.skull {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  margin-left: 368px;
+  margin-top: -85px;
+  border-radius: 20px;
+}
+
+#foto {
+    max-width: 25%;
+    height: auto;
+    position: relative;
+    left: 100px;
+    margin-right: 21px;
+    bottom: 77px;
+    border-radius: 10px;
+    left: 473px;
+}
+
+html {
+    border: red solid 8px;
+    border-style: dotted;
+    border-radius: 10px;
+    margin: 0;
+    background: white;
+}
+
+.container {
+    border: #e8e1e1 solid 8px;
+    border-style: double;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#randomWord1 {
+    position: absolute;
+    left: 134px;
+    top: 284px;
+}
+
+#show {
+  bottom: 381px;
+  right: 63px;
+  border-radius: 5px;
+  background-color: darkorange;
+  width: auto;
+  height: auto;
+  color: darkmagenta;
+  border-color: burlywood;
+}
+
+.loser {
+    position: fixed;
+    top: 8%;
+    left: 36%;
+    width: 416px;
+    height: 392px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #888888;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+}
+.pinata-img {
+    width: 500px;
+    height: 300px;
+}
+#refresh {
+    bottom: 85px;
+    position: relative;
+}
+h2 {
+    position: relative;
+    bottom: 56px;
+    color: white;
+}
